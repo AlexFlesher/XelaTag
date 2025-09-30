@@ -1,0 +1,8 @@
+name: XelaTag
+version: 1.0
+main: me.alexflesher.xelaTag.XelaTag
+api-version: 1.21
+commands:
+  xt:
+    description: XelaTag main command
+    usage: /<command> info
